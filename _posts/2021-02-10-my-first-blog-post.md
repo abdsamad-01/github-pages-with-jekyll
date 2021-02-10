@@ -1,2 +1,4 @@
-title: "Git and GitHub
-date:"2021-02-10
+---
+title: "Welcome to my Blog"
+date:"2021-02-10"
+---
